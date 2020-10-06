@@ -23,7 +23,7 @@
     "atom-space-pen-views": "^2.0.0",
     "follow-redirects": "^0.0.1",
     "fuzzaldrin": "^2.0.0",
-    "jquery": "^2",
+    "jquery": "^3",
     "mkdirp": "^0.5.0",
     "prismjs": "^0.0.1",
     "rmdir": "^1.0.0"
